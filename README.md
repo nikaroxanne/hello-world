@@ -2,4 +2,5 @@
 little repository
 
 Salut.
-I like cats and cigarettes.
+I like cats, art and computers.
+
